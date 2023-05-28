@@ -111,7 +111,7 @@ header {
 } 
 
 .wrapper .form-box.login {
-    display: none;
+    /* display: none; */
 }
 
 .wrapper .form-box {
